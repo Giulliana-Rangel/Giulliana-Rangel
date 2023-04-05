@@ -35,7 +35,7 @@
          <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
      </td>
   </tr>
-   
+   <br>
    <tr>
      <td align="center" width="20%">
          <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
@@ -71,7 +71,6 @@
   </tr> 
   </tbody>
           
-  
   </body>
   <br>
   
