@@ -15,6 +15,10 @@
 </head>
 <body>          
  <tbody>
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+	<div class="table-container">
+    <h1 style="font-size: 36px; font-weight: bold;">Core</h1>
+    <table style="width:100%;float:left">
    <tr>
      <td align="center" width="20%">
          <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
@@ -45,12 +49,14 @@
   
   <tbody>
      <tr>
-     <td align="center" width="20%">
+     <td>
+       <span><b><center></center></b></span>
          <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain-wordmark.svg" />
      </td>
   </tr>
         <tr>
-     <td align="center" width="20%">
+     <td>
+          <span><b><center></center></b></span>
          <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
      </td>
   </tr>  
@@ -68,11 +74,43 @@
      <td align="center" width="20%">
          <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
      </td>
-  </tr> 
+  </tr>
+       </table>
+  </div>
+ </div> 
   </tbody>
           
-  </body>
+   </table>
+   <div class="table-container">
+    <h1 style="font-size: 36px; font-weight: bold;">Testing</h1>
+    <table style="width:100%;float:left">
+      <tr>
+        <td>
+          <span><b><center></center></b></span>
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/TestingLibrary.png">
+        </td>
+		<td>
+          <span><b><center></center></b></span>
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/jest.png">
+        </td>
+		<td>
+          <span><b><center></center></b></span>
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/chai.png">
+        </td>
+		<td>
+          <span><b><center></center></b></span>
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/mocha.png">
+        </td>
+      </tr>
+    </table>
+  </div>
+ </div>    
   <br>
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giulliana-Rangel&show_icons=true&theme=radical)
+ <br>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giulliana-Rangel)](https://github.com/anuraghazra/github-readme-stats)
+
   
 ## Contact me 💬
 
