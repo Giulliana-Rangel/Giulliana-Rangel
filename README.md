@@ -10,21 +10,74 @@
 - 📫 How to reach me: giulliana.rangel@gmail.com
 
 ## Tools and Technologies :computer:
-
-<link rel="stylesheet" href="devicon.min.css">
-
-<!--  for devicon plain version -->
-<i class="devicon-devicon-plain"></i>
-
-<!--  for devicon plain version with wordmark -->
-<i class="devicon-devicon-plain-wordmark"></i>
-
-<!--  for devicon plain version colored with devicon main color -->
-<i class="devicon-devicon-plain colored"></i>
-
-<!--  for devicon plain version with wordmark colored with devicon main color -->
-<i class="devicon-devicon-plain-wordmark colored"></i>
-
-
+<head> 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+</head>
+<body>          
+ <tbody>
+   <tr>
+     <td align="center" width="20%">
+         <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+     </td>
+  </tr>
+    <tr>
+     <td align="center" width="20%">
+         <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+     </td>
+  </tr>
+       <tr>
+     <td align="center" width="20%">
+         <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+     </td>
+  </tr>
+        <tr>
+     <td align="center" width="20%">
+         <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+     </td>
+  </tr>
+   
+   <tr>
+     <td align="center" width="20%">
+         <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+     </td>
+  </tr>   
+  </tbody>
+  
+  <tbody>
+     <tr>
+     <td align="center" width="20%">
+         <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain-wordmark.svg" />
+     </td>
+  </tr>
+        <tr>
+     <td align="center" width="20%">
+         <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+     </td>
+  </tr>  
+           <tr>
+     <td align="center" width="20%">
+         <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+     </td>
+  </tr> 
+               <tr>
+     <td align="center" width="20%">
+         <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+     </td>
+  </tr> 
+      <tr>
+     <td align="center" width="20%">
+         <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+     </td>
+  </tr> 
+  </tbody>
+          
+  
+  </body>
+  <br>
+  
 ## Contact me 💬
 
+<body>
+  <p> giulliana.rangel@gmail.com</p>
+  
+  </body>
