@@ -2,7 +2,7 @@
 
 <code><img height="100" src="https://media0.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif?cid=ecf05e47fwbeu2wu5r3l0iglj8g61mdbyr405fc97uvpqsz0&rid=giphy.gif&ct=s" alt="gif" ></code>
 
-### Talking about Personal Stuffs:
+### I'm Giulliana Rangel ...
 
 - 🔭 I’m currently studying Full-Stack web development at [@Trybe](https://www.betrybe.com/) school.
 - 🌱 I’m currently learning JAVASCRIPT, HTML, CSS, REACT, React Native, Docker, MySQL, Sequelize, MSC (Model, Service, Controller) architecture, POO, Typescript, MongoDB
