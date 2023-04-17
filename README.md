@@ -8,6 +8,12 @@
 - 🤔 My first graduation is Biomedical Area and I excited to group in the same project: health and technology
 - 💬 Ask me about anything, I am happy to help and learn!
 - 📫 How to reach me: giulliana.rangel@gmail.com
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" /></a>
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giulliana-rangel-dev/" /></a>
+
 
 ## Tools and Technologies :computer:
 <head> 
