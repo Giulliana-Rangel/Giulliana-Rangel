@@ -16,111 +16,32 @@
 
 
 ## Tools and Technologies :computer:
-<head> 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-</head>
-<body>          
- <tbody>
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-	<div class="table-container">
-    <h1 style="font-size: 36px; font-weight: bold;">Core</h1>
-    <table style="width:100%;float:left">
-   <tr>
-     <td align="center" width="20%">
-         <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-     </td>
-  </tr>
-    <tr>
-     <td align="center" width="20%">
-         <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-     </td>
-  </tr>
-       <tr>
-     <td align="center" width="20%">
-         <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-     </td>
-  </tr>
-        <tr>
-     <td align="center" width="20%">
-         <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-     </td>
-  </tr>
-   <br>
-   <tr>
-     <td align="center" width="20%">
-         <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-     </td>
-  </tr>   
-  </tbody>
-  
-  <tbody>
-     <tr>
-     <td>
-       <span><b><center></center></b></span>
-         <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain-wordmark.svg" />
-     </td>
-  </tr>
-        <tr>
-     <td>
-          <span><b><center></center></b></span>
-         <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-     </td>
-  </tr>  
-           <tr>
-     <td align="center" width="20%">
-         <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-     </td>
-  </tr> 
-               <tr>
-     <td align="center" width="20%">
-         <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-     </td>
-  </tr> 
-      <tr>
-     <td align="center" width="20%">
-         <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-     </td>
-  </tr>
-       </table>
-  </div>
- </div> 
-  </tbody>
-          
-   </table>
-   <div class="table-container">
-    <h1 style="font-size: 36px; font-weight: bold;">Testing</h1>
-    <table style="width:100%;float:left">
-      <tr>
-        <td>
-          <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/TestingLibrary.png">
-        </td>
-		<td>
-          <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/jest.png">
-        </td>
-		<td>
-          <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/chai.png">
-        </td>
-		<td>
-          <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/mocha.png">
-        </td>
-      </tr>
-    </table>
-  </div>
- </div>    
-  <br>
+		   
+<code><img height="45" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"  alt="docker"/></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="git"/></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain-wordmark.svg" alt="Sequelize"/></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+
+
+### Tests
+	
+<code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" /></code>
+<code><img height="45" src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/TestingLibrary.png" alt="mocha" /></code>
+<code><img height="45" src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/jest.png" alt="mocha" /></code>
+<code><img height="45" src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/chai.png" alt="mocha" /></code>
+
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giulliana-Rangel&show_icons=true&theme=radical)
  <br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giulliana-Rangel)](https://github.com/anuraghazra/github-readme-stats)
 
   
-## Contact me 💬
 
-<body>
-  <p> giulliana.rangel@gmail.com</p>
-  
-  </body>
