@@ -4,9 +4,8 @@
 
 ### About me and my work like a DEV
 
-- 🔭 I’m currently studying Full-Stack web development at [@Trybe](https://www.betrybe.com/) school.
-- 🌱 I’m currently learning JAVASCRIPT, HTML, CSS, REACT, React Native, Docker, MySQL, Sequelize, MSC (Model, Service, Controller) architecture, POO, Typescript, MongoDB
-- 👯 I'd like some day (closer) to the future make a high graduate in software development
+- 🌱 JAVASCRIPT, HTML, CSS, REACT, React Native, Docker, MySQL, Sequelize, MSC (Model, Service, Controller) architecture, POO, Typescript, MongoDB
+- 👯 Pos DOC AI and deep learning - UNIFESP - Biotechnology Brazil
 - 🤔 My first graduation is Biomedical Area and I excited to group in the same project: health and technology
 - 💬 Ask me about anything, I am happy to help and learn!
 - 📫 How to reach me: giulliana.rangel@gmail.com
